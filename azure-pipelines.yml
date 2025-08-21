@@ -7,7 +7,7 @@ trigger:
 - main
 
 pool:
-  name: azagent
+  name: 'Default'
 
 steps:
 - task: NodeTool@0
